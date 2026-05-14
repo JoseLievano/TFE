@@ -1,0 +1,20 @@
+{
+  "vault_name": "nat-tesis",
+  "project_type": "academic_tfe",
+  "language": "fr",
+  "directories": {
+    "docs": "Docs",
+    "sources": "Sources",
+    "plans": "Plans",
+    "glossary": "Glossary",
+    "adrs": "ADRs",
+    "memory": "Memory"
+  },
+  "statuses": {
+    "adrs": ["proposed", "accepted", "deprecated", "superseded"]
+  },
+  "obsidian": {
+    "use_cli": false,
+    "vault_name": null
+  }
+}
