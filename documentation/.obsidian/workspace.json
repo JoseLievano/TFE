@@ -35,7 +35,8 @@
               "title": "LOREAUX_Partie-1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bdd2a4bf3021c0dd",
@@ -126,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5440b23332b6f108",
@@ -231,11 +233,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "839faf4a4d5c35f6",
+  "active": "dd9feb254322a48f",
   "lastOpenFiles": [
+    "work/p1/ancrage_revise_final-1_corrige.md",
     "work/p1/LOREAUX_Partie-1.md",
     "work/p1/ancrage_revise_final-1.md",
-    "work/p1/ancrage_revise_final-1_corrige.md",
     "Docs/terms-rules.md",
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.c603f7406b5a",
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.677344114064",
