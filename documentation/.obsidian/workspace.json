@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "LOREAUX_Partie-1"
             }
+          },
+          {
+            "id": "9b9e1ecc5148a2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Index-Documents-References.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index-Documents-References"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bdd2a4bf3021c0dd",
@@ -62,15 +76,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/terms-rules.md",
+                "file": "Sources/References-Initiales.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "terms-rules"
+              "title": "References-Initiales"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,12 +248,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd9feb254322a48f",
+  "active": "9b9e1ecc5148a2d5",
   "lastOpenFiles": [
-    "work/p1/ancrage_revise_final-1_corrige.md",
     "work/p1/LOREAUX_Partie-1.md",
-    "work/p1/ancrage_revise_final-1.md",
+    "Sources/Index-Documents-References.md",
+    "Sources/References-Initiales.md",
+    "Plans/Structure-Partie-2.md",
+    "work/p1/ancrage_revise_final-1_corrige_2.md",
     "Docs/terms-rules.md",
+    "work/p1/ancrage_revise_final-1_corrige_2.md.tmp.19884.3f844dbfeb1e",
+    "work/p1/ancrage_revise_final-1_corrige.md",
+    "work/p1/ancrage_revise_final-1.md",
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.c603f7406b5a",
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.677344114064",
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.f387bb615a03",
@@ -250,10 +270,8 @@
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.5b01480dd544",
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.bd4737b614cf",
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.f4f00ac91003",
-    "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.a69943512e12",
     "Corrections/done/Revue-Redaction-Partie-1.md",
     "Plans/Structure-TFE.md",
-    "Sources/References-Initiales.md",
     "Memory/brief.md",
     "Docs/Project-Overview.md",
     "Docs/Corpus-References.md"
