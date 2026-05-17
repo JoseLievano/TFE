@@ -60,9 +60,9 @@
 - **ID** : (8)
   **Document** : La complexité dans la pratique infirmière : vers un nouveau cadre conceptuel dans les soins infirmiers
   **Path** : `references-documents/complexite/busnel_2020_la_complexite_dans_la_pratique_infirmiere_vers_u.md`
-  **Page** : 4 (p. 9 de la revue)
-  **Text** : « la multitude de références à cette notion demande une démarche de clarification - voire de classification - pour aboutir à une meilleure définition de la complexité dans la pratique infirmière. À l'issue de cette revue narrative, l'article propose la définition d'un cadre conceptuel de la complexité dans les soins infirmiers […]. »
-  **Referential argument** : Cette citation justifie l'exigence méthodologique d'ancrer la définition dans la littérature *infirmière* et non dans un sens commun générique : Busnel et al. proposent précisément ce cadre conceptuel disciplinaire dont notre travail doit se réclamer.
+  **Page** : 3-4 (p. 8-9 de la revue)
+  **Text** : « Dans les sciences infirmières, la complexité apparait discrètement de manière diluée dans le paradigme de l'intégration et celui de la transformation. Mais actuellement, la complexité n'est pas positionnée comme un concept central d'une théorie ou modèle infirmier spécifique, même si l'intérêt de questionner la complexité dans les soins est de plus en plus prégnant dans la pratique infirmière. […] la multitude de références à cette notion demande une démarche de clarification - voire de classification - pour aboutir à une meilleure définition de la complexité dans la pratique infirmière. À l'issue de cette revue narrative, l'article propose la définition d'un cadre conceptuel de la complexité dans les soins infirmiers qui complète les développements cliniques et de recherche en cours visant la mise à dispositions de méthodes valides et fiables d'évaluation de la complexité pour la pratique infirmière domiciliaire. »
+  **Referential argument** : Cette citation justifie l'exigence méthodologique d'ancrer la définition dans la littérature *infirmière* et non dans un sens commun générique. Busnel et al. montrent d'abord que la complexité, dans les sciences infirmières, n'est pas encore positionnée comme un concept central d'une théorie ou d'un modèle disciplinaire spécifique, malgré l'intérêt croissant pour la question. C'est précisément ce constat de carence disciplinaire qui motive leur démarche de clarification et la proposition d'un cadre conceptuel infirmier de la complexité — cadre dont notre travail doit se réclamer pour échapper à une définition de sens commun.
 
 ## Références — Différencier soin simple, soin compliqué et soin complexe
 
@@ -138,12 +138,12 @@
   **Text** : « Si la complexité agit, interagit, s'entremêle à différents niveaux dans les prises en soins quotidiennes, les infirmières y sont en permanence confrontées. »
   **Referential argument** : Cette citation soutient directement le fait que la complexité ne se loge pas à un seul niveau mais agit simultanément à plusieurs strates des prises en soin.
 
-- **ID** : (19)
+- **ID** : (19) (redondante)
   **Document** : La complexité dans la pratique infirmière : vers un nouveau cadre conceptuel dans les soins infirmiers
   **Path** : `references-documents/complexite/busnel_2020_la_complexite_dans_la_pratique_infirmiere_vers_u.md`
   **Page** : 4 (p. 9 de la revue)
   **Text** : « Ainsi, pour les infirmières, la complexité peut se retrouver au niveau "micro", niveau individuel avec le patient, au niveau "méso", niveau organisationnel avec l'équipe de soin agissant pour le patient et au niveau "macro", niveau sociétal avec le système de santé d'un point de vue économique et politique (figure 1). »
-  **Referential argument** : Référence canonique fondant le découpage tripartite micro/méso/macro retenu dans le TFE. C'est exactement le cadre conceptuel adopté.
+  **Referential argument** : **Cette référence est redondante.** Elle proposait une vue panoramique du découpage tripartite micro/méso/macro, mais les références suivantes — (20) pour le niveau micro, (21) pour le niveau méso et (22) pour le niveau macro — définissent chacune des trois dimensions de manière plus approfondie et plus précise. Le contenu de (19) est donc entièrement absorbé par (20)+(21)+(22) et son appel a été retiré du texte principal. Cette entrée est conservée ici à titre de trace, mais ne doit plus être mobilisée dans la rédaction.
 
 - **ID** : (20)
   **Document** : La complexité dans la pratique infirmière : vers un nouveau cadre conceptuel dans les soins infirmiers
@@ -230,11 +230,11 @@
 
 ## Synthèse des sources mobilisées
 
-Trente marqueurs de référence (1)–(30) ont été placés. Les sources actives dans ce cadrage sont :
+Vingt-neuf marqueurs de référence ont été placés dans le texte (1)–(30), l'entrée (19) ayant été retirée du texte principal mais conservée dans ce fichier de détails sous la mention *redondante* (voir l'entrée correspondante). Les sources actives dans ce cadrage sont :
 
 | Source | Rôle dans le cadrage | Marqueurs |
 |---|---|---|
-| Busnel, Ludwig & Da Rocha Rodrigues (2020) — *La complexité dans la pratique infirmière : vers un nouveau cadre conceptuel dans les soins infirmiers* | **Source pivot.** Définition, attributs (non-linéarité, imprévisibilité, ajustement permanent), cadre micro/méso/macro, interactions entre niveaux, agir complexe adaptatif. | (1), (3), (5), (6), (7), (8), (17), (18), (19), (20), (21), (22), (23), (24), (26), (27), (28), (30) |
+| Busnel, Ludwig & Da Rocha Rodrigues (2020) — *La complexité dans la pratique infirmière : vers un nouveau cadre conceptuel dans les soins infirmiers* | **Source pivot.** Définition, attributs (non-linéarité, imprévisibilité, ajustement permanent), cadre micro/méso/macro, interactions entre niveaux, agir complexe adaptatif. | (1), (3), (5), (6), (7), (8), (17), (18), (20), (21), (22), (23), (24), (26), (27), (28), (30) — l'entrée (19) figure dans le fichier détaillé mais est marquée *redondante* et n'est pas mobilisée dans le texte |
 | Curchod — *De l'acte de soins aux situations de soins complexes* (chap. 5) | **Source pivot.** Distinction simple / compliqué / complexe ; non-prédictibilité, singularité, impossibilité du protocole. | (2), (10), (11), (12), (16), (25), (29) |
 | Curchod — *La complexité dans les soins : des repères pour en parler* (article 2020) | Sentiment de complexité, subjectivité du jugement, inséparabilité observateur/observé, légitimité du vécu infirmier. | (13), (14), (15) |
 | Curchod — *Rien n'est simple… Tout se complique !* (chap. 1) | Confusion du langage courant entre compliqué et complexe ; nécessité de la distinction. | (9) |

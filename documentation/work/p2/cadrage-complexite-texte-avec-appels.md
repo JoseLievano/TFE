@@ -45,7 +45,7 @@ Cette différenciation est essentielle, même si la distinction entre un soin si
 
 ### 3. Aborder les trois dimensions : micro, méso, macro
 
-La complexité d'un soin ne se loge pas à un seul niveau (18). La rédaction doit la déployer selon **trois dimensions imbriquées** (19) :
+La complexité d'un soin ne se loge pas à un seul niveau (18). La rédaction doit la déployer selon **trois dimensions imbriquées** :
 
 - **dimension micro** — ce qui se joue dans la rencontre directe entre l'infirmière et le patient : douleur, refus, fatigue, signaux non verbaux, vulnérabilité psychologique, histoire singulière de la personne soignée (20) ;
 - **dimension méso** — ce qui se joue au niveau du service et de l'équipe pluridisciplinaire : organisation des soins, pression temporelle, charge de travail, disponibilité des collègues, coordination interprofessionnelle, marges décisionnelles laissées au soignant (21) ;
