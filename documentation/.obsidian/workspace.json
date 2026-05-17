@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Index-Documents-References.md",
+                "file": "work/p2/cadrage-complexite.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index-Documents-References"
+              "title": "cadrage-complexite"
             }
           }
         ],
@@ -83,9 +83,23 @@
               "icon": "lucide-file",
               "title": "References-Initiales"
             }
+          },
+          {
+            "id": "561ba073812ee94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Index-Documents-References.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index-Documents-References"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,12 +262,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b9e1ecc5148a2d5",
+  "active": "561ba073812ee94a",
   "lastOpenFiles": [
-    "work/p1/LOREAUX_Partie-1.md",
+    "work/p2/cadrage-complexite.md",
     "Sources/Index-Documents-References.md",
-    "Sources/References-Initiales.md",
     "Plans/Structure-Partie-2.md",
+    "work/p2/cadrage-complexite.md.tmp.565582.abdd1364c903",
+    "work/p2",
+    "work/p1/Untitled",
+    "work/p1/LOREAUX_Partie-1.md",
+    "Sources/References-Initiales.md",
     "work/p1/ancrage_revise_final-1_corrige_2.md",
     "Docs/terms-rules.md",
     "work/p1/ancrage_revise_final-1_corrige_2.md.tmp.19884.3f844dbfeb1e",
@@ -267,9 +285,6 @@
     "Docs/terms-rules.md.tmp.1492905.c109cb0a9a0c",
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.ca0141d555fb",
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.8518d778220f",
-    "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.5b01480dd544",
-    "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.bd4737b614cf",
-    "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.f4f00ac91003",
     "Corrections/done/Revue-Redaction-Partie-1.md",
     "Plans/Structure-TFE.md",
     "Memory/brief.md",
