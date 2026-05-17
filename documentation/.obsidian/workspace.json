@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/p2/partie-2-complexite.md",
+                "file": "work/p1/ancrage_revise_final-1_corrige_2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "partie-2-complexite"
+              "title": "ancrage_revise_final-1_corrige_2"
             }
           },
           {
@@ -262,10 +262,12 @@
   },
   "active": "e5cce3cd2f1e8eb2",
   "lastOpenFiles": [
+    "work/p2/partie-2-adaptation.md",
+    "work/p2/partie-2-complexite.md",
+    "work/p2/partie-2-adaptation.md.tmp.696988.224eb74d3595",
     "work/p2/cadrage-adaptation-texte-avec-appels.md",
     "work/p2/cadrage-adaptation-references-detaillees.md",
     "Sources/References-Initiales.md",
-    "work/p2/partie-2-complexite.md",
     "Plans/Structure-Partie-2.md",
     "Memory/progress.md.tmp.696988.1819de34b1f5",
     "Memory/context.md.tmp.696988.3819dca045f9",
@@ -283,7 +285,6 @@
     "work/p2/cadrage-complexite-texte-avec-appels.md.tmp.696988.d52ce7dda3ad",
     "work/p2/cadrage-complexite-references-detaillees.md.tmp.696988.4e6f3e9b1240",
     "work/p2/cadrage-complexite-references-detaillees.md.tmp.696988.6cc9e601c523",
-    "work/p2/cadrage-adaptation-references-detaillees.md.tmp.606782.1d1004c83d27",
     "work/p1/ancrage_revise_final-1_corrige.md",
     "Sources/Index-Documents-References.md",
     "Docs/terms-rules.md",
