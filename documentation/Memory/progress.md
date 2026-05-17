@@ -1,5 +1,9 @@
 # Progress
 
+## 2026-05-17 (suite)
+
+- Redaction de la sous-section 2.1 « La complexite des soins » de la Partie 2, dans `documentation/work/p2/partie-2-complexite.md`. Trajectoire : reprise de l'interpellation finale de P1, definition de la complexite (Busnel et al., 2020 ; Pagani et al., 2017), differenciation simple/complique/complexe (Curchod, 2019), dimensions micro/meso/macro (Busnel et al., 2020), retour aux trois constats de P1, transition vers le concept d'adaptation. Style aligne sur P1, structure alignee sur Loreaux (texte suivi sans sous-titres internes), normes APA 7 appliquees. Nouvelles sources introduites a P2 : Busnel et al. (2020), Pagani et al. (2017), Curchod (2020, article magazine).
+
 ## 2026-05-17
 
 - Ajout de la categorie `livre-Les-Situations-De-Soins-Complexes` dans [[Sources/Index-Documents-References]] avec 10 chapitres indexes depuis `references-documents/livre-Les-Situations-De-Soins-Complexes/`, en ajoutant noms, chemins absolus, descriptions et tags thematiques.
