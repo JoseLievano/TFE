@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "cadrage-complexite"
             }
+          },
+          {
+            "id": "f87baa3b66402621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/p2/cadrage-complexite-with-references.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cadrage-complexite-with-references"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "bdd2a4bf3021c0dd",
@@ -156,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5440b23332b6f108",
@@ -262,11 +275,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "561ba073812ee94a",
+  "active": "35266a359c5078f8",
   "lastOpenFiles": [
     "work/p2/cadrage-complexite.md",
-    "Sources/Index-Documents-References.md",
+    "work/p2/cadrage-complexite-with-references.md",
     "Plans/Structure-Partie-2.md",
+    "Sources/Index-Documents-References.md",
+    "p2/cadrage-complexite/cadrage-complexite-with-references.md.tmp.565582.7165ee4774d9",
+    "p2/cadrage-complexite",
+    "p2",
     "work/p2/cadrage-complexite.md.tmp.565582.abdd1364c903",
     "work/p2",
     "work/p1/Untitled",
@@ -282,9 +299,6 @@
     "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.f387bb615a03",
     "Docs/Regles-Redaction-BIRSG.md",
     "Glossary/Termes-Cles.md",
-    "Docs/terms-rules.md.tmp.1492905.c109cb0a9a0c",
-    "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.ca0141d555fb",
-    "work/p1/ancrage_revise_final-1_corrige.md.tmp.1492905.8518d778220f",
     "Corrections/done/Revue-Redaction-Partie-1.md",
     "Plans/Structure-TFE.md",
     "Memory/brief.md",
